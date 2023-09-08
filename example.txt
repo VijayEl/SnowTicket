@@ -1,0 +1,5 @@
+/bin/bash: /azureml-envs/sklearn-1.0/lib/libtinfo.so.6: no version information available (required by /bin/bash)
+Traceback (most recent call last):
+  File "main.py", line 99, in <module>
+    print(df.columns)
+NameError: name 'df' is not defined
